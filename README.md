@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**safinazbg/safinazbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Safinaz**. I am an HCI researcher, UX designer, and front-end developer. I research coordination and collaboration in software development teams in face to face and mediated settings. I design and develop user friendly web applications with VueJS. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image alt text](...alone.png)
+
+👩🏻‍💻  I work for the [CHCAA](https://chcaa.io) at Aarhus University.   
+👾 I’m currently developing online teaching plugins for vueJS applications.  
+👯 I am on a mission to close the gap between concept and code.   
+🤖 My current skills are JavaScript, VueJS, CSS, HTML, UIKIT, BULMA.  
+🕵🏻‍♀ I’m currently investigating D3.js  
+👽 You can reach me on safinaz@cas.au.dk    [Twitter](https://twitter.com/sbuyukguzel) [Linkedin](https://www.linkedin.com/in/safinaz-buyukguzel-680a10165/)
+
+
