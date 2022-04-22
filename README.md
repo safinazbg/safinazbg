@@ -5,7 +5,7 @@ My name is **Safinaz**. I am an <span style="color: red;">HCI researcher</span>,
 
 👩🏻‍💻  I work for the [CHCAA](https://chcaa.io) at Aarhus University.   
 👾 I’m currently developing online teaching plugins for vueJS applications.  
-🤖 My current skills are JavaScript, VueJS, CSS, HTML, UIKIT, BULMA.  
+🤖 My current skills are JavaScript, VueJS, CSS, HTML, TAILWIND, UIKIT, BULMA.  
 🕵🏻‍♀ I’m currently investigating D3.js  
 👽 You can reach me on [:email:](safinaz@cas.au.dk) &nbsp; [<img width="18" src="https://raw.githubusercontent.com/safinazbg/safinazbg/main/twitter.png">](https://twitter.com/sbuyukguzel) &nbsp; [<img width="18" src="https://raw.githubusercontent.com/safinazbg/safinazbg/main/linkedin.png">
 ](https://www.linkedin.com/in/safinaz-buyukguzel-680a10165/)
